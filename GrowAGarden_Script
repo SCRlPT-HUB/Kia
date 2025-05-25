@@ -1,8 +1,8 @@
 -- Run first script
 loadstring(game:HttpGet("http://vpaste.net/fpugS"))()
 
--- Wait for 10 seconds
-wait(10)
+-- Wait for 5 seconds
+wait(5)
 
 -- Run second script
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SCRlPT-HUB/Kia/refs/heads/main/GrowAGarden_Script"))()
